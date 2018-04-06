@@ -1,0 +1,4 @@
+#Fri Apr 06 21:31:48 CEST 2018
+base.0=/Users/max/Desktop/SrcsampleNxpNfcLib-1/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/Users/max/Desktop/SrcsampleNxpNfcLib-1/build/intermediates/transforms/dexMerger/debug/1/classes.dex
