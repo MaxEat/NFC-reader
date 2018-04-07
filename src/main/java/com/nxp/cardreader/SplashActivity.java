@@ -20,7 +20,6 @@ public class SplashActivity extends Activity {
 	
 	/** Splash screen timer.*/
     public static final int SPLASH_TIME_OUT = 1500;
-    public ImageView mIVNXPLogo = null;
     public ImageView mIVTapLinxLogo = null;
 
     @Override
@@ -51,8 +50,5 @@ public class SplashActivity extends Activity {
         mIVTapLinxLogo.getLayoutParams().width = (size.x) ;
         mIVTapLinxLogo.getLayoutParams().height =(size.y) ;
 
-       /* mIVNXPLogo = (ImageView) findViewById(R.id.imgLogo);
-        mIVNXPLogo.getLayoutParams().width = size.x/2;
-        mIVNXPLogo.getLayoutParams().height = size.y/16 ;*/
     }
 }
